@@ -8,6 +8,6 @@ $ cd fb-hacker
 $ python2 fb.py
 ```
 # thanks to
-#### All members D4RKN355 T34M
+#### All members hk17672591
 #### Fachri Yuzzy
 #### Allah SWT
